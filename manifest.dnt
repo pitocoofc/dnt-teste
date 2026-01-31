@@ -1,0 +1,9 @@
+[CONFIG]
+name=Modulo de Teste
+version=1.0.0
+compatible_dnt=1.0.9
+requires=none
+
+[ERROR]
+msg=Suas libs estão incompletas para utilizar este modulo!
+  
